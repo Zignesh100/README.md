@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Bookworm-Boookstore Web application**
+- 🔭 I’m currently working on **Balola E-commerce Website**
 
 - 🌱 I’m currently learning **Next.js**
 
